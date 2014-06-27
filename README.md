@@ -1,4 +1,0 @@
-WEB-HR-Ess
-==========
-
-Developer
