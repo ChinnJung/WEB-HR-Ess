@@ -1,0 +1,48 @@
+*, html { font-family:"TH SarabunPSK"; }
+body 
+{
+    
+}
+
+/* Font ชื่อแต่ละหน้าจอ */
+.fonttopic  
+{
+    font-size: 1.5em;
+    font-weight: bold;
+    color:#A60414;
+}
+
+/* Font ข้อความแจ้งเตือน */
+.fontmessage
+{
+    font-size:22px;
+    font-weight: bold;
+    color:#0145a2;
+}
+
+/* Font รายละเอียดที่แสดง */
+.fontdetail1
+{
+    font-size:25px;
+    font-weight: bold;
+    color:#000000;
+       
+}
+
+/* Font รายละเอียดที่แสดง */
+.fontdetail2
+{
+    font-size:26px;
+    font-weight: bold;
+    color:#000000;
+       
+}
+
+/* Font รายละเอียดที่แสดง */
+.fontdetail3
+{
+    font-size:27px;
+    font-weight: bold;
+    color:#000000;
+       
+}
